@@ -1,6 +1,8 @@
 TaskMaster Bot / Telegraf, Node.js, Telegram API, SQLite                                      
 •	Node.js and the Telegraf library were used to seamlessly interact with the Telegram API, allowing users to easily manage tasks and groups.
+
 •	Designed and implemented features allowing users to create task groups, add tasks, and visualize task completion charts.
+
 •	Used transactions to maintain data consistency and integrity during complex database operations.
 
 An example of using TaskMaster Bot:
